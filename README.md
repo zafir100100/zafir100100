@@ -5,7 +5,7 @@
         alt="Typing SVG" />
 </a>
 
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=zafir100100&label=Profile%20views&color=0e75b6&style=flat"
