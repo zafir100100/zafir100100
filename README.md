@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zafir Alvi</h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Automation+%26+Manual+SQA;+Engineer+from+Bangladesh.)](https://git.io/typing-svg) <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zafir100100&label=Profile%20views&color=0e75b6&style=flat" alt="zafir100100">
-</p>- 🔭 I’m currently working on **manual and automation testing** - 💬 Ask me about **Manual Testing, Automation Testing, API Testing.** - 📫 How to reach me **muhammad.zafir.alvi.official@gmail.com** <h3 align="left">Connect with me:</h3>
+</p>
+- 🔭 I’m currently working on **manual and automation testing** 
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing.** 
+- 📫 How to reach me **muhammad.zafir.alvi.official@gmail.com** <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/zafir100100/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak-ahmed007" height="30" width="40">
