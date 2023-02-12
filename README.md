@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD ZAFIR ALVI</h1>
 
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Automation+%26+Manual+SQA;+Engineer+from+Bangladesh.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Full+Stack+Developer+%26+SQA;Engineer+from+Bangladesh." alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
