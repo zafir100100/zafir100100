@@ -160,9 +160,9 @@
         <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"
             alt="JUnit" width="40" height="40" />
     </a>
-    <a href="https://junit.org/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"
-            alt="JUnit" width="40" height="40" />
+    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+        <img src="http://jmeter.apache.org/images/jmeter.png"
+            alt="Jmeter" width="40" height="40" />
     </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
