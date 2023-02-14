@@ -160,9 +160,13 @@
         <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"
             alt="JUnit" width="40" height="40" />
     </a>
+    <a href="https://testng.org" target="_blank" rel="noreferrer">
+        <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png"
+            alt="TestNG" width="40" height="40" />
+    </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
         <img src="http://jmeter.apache.org/images/jmeter.png"
-            alt="Jmeter" width="40" height="40" />
+            alt="Jmeter" width="80" height="40" />
     </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
