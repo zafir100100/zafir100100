@@ -110,7 +110,7 @@
 </h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
             alt="androidstudio" width="40" height="40" />
     </a>
 </p>
