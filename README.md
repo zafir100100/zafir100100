@@ -97,7 +97,7 @@
             alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://go.dev" target="_blank" rel="noreferrer">
-        <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" />
     </a>
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
