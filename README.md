@@ -138,7 +138,7 @@
             alt="oracle" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres-removebg-preview.png"
             alt="postgres" width="40" height="40" />
     </a>
     <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer">
