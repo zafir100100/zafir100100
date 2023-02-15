@@ -146,7 +146,7 @@
             alt="mssql" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.jpeg"
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
             alt="mysql" width="120" height="40" />
     </a>
 </p>
