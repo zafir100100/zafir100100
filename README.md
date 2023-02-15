@@ -147,7 +147,7 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.jpeg"
-            alt="mysql" width="80" height="40" />
+            alt="mysql" width="120" height="40" />
     </a>
 </p>
 
