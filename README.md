@@ -139,10 +139,14 @@
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/postgres.png"
-            alt="oracle" width="40" height="40" />
+            alt="postgres" width="40" height="40" />
+    </a>
+    <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer">
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mssql.jpg"
+            alt="mssql" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.jpeg"
             alt="mysql" width="40" height="40" />
     </a>
 </p>
