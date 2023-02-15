@@ -170,7 +170,7 @@
     </a>
     <a href="https://testng.org" target="_blank" rel="noreferrer">
         <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png"
-            alt="TestNG" width="40" height="80" />
+            alt="TestNG" width="80" height="40" />
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
         <img src="http://jmeter.apache.org/images/jmeter.png"
