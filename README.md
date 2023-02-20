@@ -71,6 +71,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
     </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+            alt="css3" width="40" height="40" />
+    </a>
 </p>
 
 
@@ -92,6 +96,10 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
             alt="css3" width="40" height="40" />
     </a>
 </p>
