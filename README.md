@@ -46,7 +46,7 @@
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="80" height="40" />
+            alt="typescript" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
