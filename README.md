@@ -26,7 +26,7 @@
     <a href="mailto:muhammad.zafir.alvi.official@gmail.com">
         <img align="center"
         src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"
-        alt="muhammad.zafir.alvi.official@gmail.com" height="30" width="40" />
+        alt="muhammad.zafir.alvi.official@gmail.com" height="30" width="80" />
     </a>
     <a href="https://github.com/zafir100100" target="blank">
         <img align="center"
