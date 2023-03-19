@@ -15,18 +15,19 @@
 
 - 🔭 I'm currently working on **Full stack development, manual and automation testing**
 
-- 💬 All of my projects are available at [https://github.com/zafir100100?tab=repositories](https://github.com/zafir100100?tab=repositories)
+- 📫 All of my projects are available at [https://github.com/zafir100100?tab=repositories](https://github.com/zafir100100?tab=repositories)
 
 - 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
-
-- 📫 How to reach me **muhammad.zafir.alvi.official@gmail.com**
-
-<br>
 
 <h3 align="center">
     Connect with me:
 </h3>
 <p align="center">
+    <a href="mailto:muhammad.zafir.alvi.official@gmail.com">
+        <img align="center"
+        src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"
+        alt="muhammad.zafir.alvi.official@gmail.com" height="30" width="40" />
+    </a>
     <a href="https://github.com/zafir100100" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
@@ -75,13 +76,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
             alt="css3" width="40" height="40" />
     </a>
-</p>
-
-
-<h3 align="left">
-    Front-End tools & Frameworks:
-</h3>
-<p align="left">
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg"
             alt="angular" width="40" height="40" />
@@ -102,13 +96,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
             alt="css3" width="40" height="40" />
     </a>
-</p>
-
-
-<h3 align="left">
-    Back-End Tools & Frameworks:
-</h3>
-<p align="left">
     <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
     </a>
@@ -119,13 +106,6 @@
     <a href="https://go.dev" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" />
     </a>
-</p>
-
-
-<h3 align="left">
-    Mobile App Development:
-</h3>
-<p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
             alt="androidstudio" width="40" height="40" />
@@ -134,13 +114,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
             alt="ionic" width="40" height="40" />
     </a>
-</p>
-
-
-<h3 align="left">
-    Databases:
-</h3>
-<p align="left">
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" />
@@ -157,13 +130,6 @@
         <img src="https://github.com/zafir100100/zafir100100/blob/main/resources/mysql.png"
             alt="mysql" width="120" height="40" />
     </a>
-</p>
-
-
-<h3 align="left">
-    SQA Tools:
-</h3>
-<p align="left">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" />
@@ -188,22 +154,9 @@
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
             alt="cypress" width="40" height="40" />
     </a>
-</p>
-
-
-<h3 align="left">
-    Prototyping Tools:
-</h3>
-<p align="left">
     <a href="https://helpx.adobe.com/xd" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="figma" width="40" height="40" />
     </a>
-</p>
-
-<h3 align="left">
-    Version Controlling:
-</h3>
-<p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
