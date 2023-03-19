@@ -13,9 +13,9 @@
         alt="zafir100100" />
 </p>
 
-- 🔭 I’m currently working on **Full stack development, manual and automation testing**
+- 🔭 I'm currently working on **Full stack development, manual and automation testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zafir100100?tab=repositories](https://github.com/zafir100100?tab=repositories)
+- 💬 All of my projects are available at [https://github.com/zafir100100?tab=repositories](https://github.com/zafir100100?tab=repositories)
 
 - 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
 
@@ -209,20 +209,34 @@
     </a>
 </p>
 
-<br>
-<br>
-
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=zafir100100&show_icons=true&locale=en&layout=compact&theme=dark"
-        alt="zafir100100">
-</p>
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=zafir100100&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
-        alt="zafir100100">
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zafir100100&theme=merko"
-        alt="zafir100100">
-</p>
+<details>
+    <summary>
+        <strong>
+            <h3>
+                GitHub Statistical Reports:
+            </h3>
+        </strong>
+    </summary>
+    <br>
+    <table border="0">
+        <tr>
+            <td colspan="2" align="center">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=zafir100100&show_icons=true&locale=en&layout=compact&theme=dark"
+                    alt="zafir100100" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api?username=zafir100100&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
+                    alt="zafir100100" />
+            </td>
+            <td>
+                <img align="center" 
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=zafir100100&theme=merko"
+                    alt="zafir100100" />
+            </td>
+        </tr>
+    </table>
+</details>
